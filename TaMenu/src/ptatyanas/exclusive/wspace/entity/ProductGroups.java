@@ -15,6 +15,7 @@ public class ProductGroups {
 	
 	private int productGroupId;
 	private String productGroupName;
+	
 	public ProductGroups() {
 		super();
 	}
